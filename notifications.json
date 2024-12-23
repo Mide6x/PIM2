@@ -1,0 +1,27 @@
+[
+  {
+    "message": "Welcome to our platform! We hope you enjoy your stay.",
+    "read": false,
+    "createdAt": "2024-08-07T10:00:00.000Z"
+  },
+  {
+    "message": "Your password was successfully changed.",
+    "read": false,
+    "createdAt": "2024-08-07T10:15:00.000Z"
+  },
+  {
+    "message": "New features have been added to the platform.",
+    "read": true,
+    "createdAt": "2024-08-07T11:00:00.000Z"
+  },
+  {
+    "message": "Your profile was updated successfully.",
+    "read": false,
+    "createdAt": "2024-08-07T11:30:00.000Z"
+  },
+  {
+    "message": "A new message has been received in your inbox.",
+    "read": false,
+    "createdAt": "2024-08-07T12:00:00.000Z"
+  }
+]
